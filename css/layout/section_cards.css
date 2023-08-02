@@ -1,0 +1,32 @@
+.cards{
+    display: flex;
+    gap: 36px;
+    margin-left: 95px;
+    margin-top: 5px;
+} 
+.card_roxo{
+    display: flex;
+    gap: 36px;
+    margin-left: 95px;
+    margin-top: 5px;
+
+}
+.imagem_pizza{
+    width: 150px;
+    height: auto;
+}
+
+    #espaco{
+        width: auto;
+        height: 20px;
+    }
+
+    #espaco2{
+        width: auto;
+        height: 35px;
+    }
+
+    #espaco3{
+        width: auto;
+        height: 40px;
+    }
